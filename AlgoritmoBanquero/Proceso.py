@@ -73,7 +73,7 @@ class Proceso:
 
             res += str(i)+ " "
 
-        res+= "   "
+        res+= "     "
         for i in self.Asignados:
 
             res += str(i)+ " "

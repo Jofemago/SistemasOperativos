@@ -33,3 +33,5 @@ if __name__ == '__main__':
     for e in lista[len(lista) - 1].split(" "):
 
         RecursosDisponibles.append(int(e))
+
+    banquero = Banquero(Nroprocesos, Nrorecursos, Procesos,RecursosDisponibles)
