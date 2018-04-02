@@ -1,0 +1,10 @@
+#numero de procesos
+#numero de recursos
+#asignados solicitados1
+#asignados solicitados2
+-
+-
+-
+-
+#asignados solicitadosN
+Recursos Existentes
